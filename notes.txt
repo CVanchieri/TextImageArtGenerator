@@ -1,6 +1,3 @@
-# TextImageOverlay
-A Python program that generates a high quality image using lyrics and a given image.
-
 Steps:
 1. run the app locally installing the pipfile and using pipenv shell for the virtual environment.
 2. Enter an image web address in the style2.css sheet at line 88.
